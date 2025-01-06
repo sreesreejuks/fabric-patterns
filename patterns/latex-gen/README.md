@@ -18,4 +18,4 @@ While AI LaTeX generation cannot be entirely controlled, this enhanced pattern i
 - **Exclude `fontspec`:** Do not use the `fontspec` package to prevent potential compilation issues, especially when not required by the document setup.
 
 ## Comments
-This pattern was tested on various models and demonstrates improved rendering over the original, particularly with languages that include accented characters, such as French. That being said, AI LaTeX generation can fail and in such case, it is worth trying both patterns.
+This pattern was tested on various models and demonstrates improved rendering over the original, particularly with languages that include accented characters, such as French. That being said, AI LaTeX generation can fail and in such case, it is also worth trying the original Fabric **write_latex** pattern.
