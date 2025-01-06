@@ -2,26 +2,23 @@
 
 **🚀 High-Quality Patterns for Fabric**
 
-This project would provide a collection of **high-quality curated patterns** for [Fabric](https://github.com/danielmiessler/fabric), offering additional choices and inspiration for those who use or develop with Fabric.
+This project would provide a collection of **high-quality curated patterns** for [Fabric](https://github.com/danielmiessler/fabric), offering additional choices and inspiration for Fabric users.
 
 ## 📖 About
 
-This repository serves as an **independent collection of patterns** for Fabric:
+This repository serves as an **independent collection of patterns** for Fabric, to:
 
 - 🌟 Share **unique, personal, and creative patterns**.
-- 🌐 Provide a **broader selection** of patterns for the community.
-- 🧪 Empower users to experiment other patterns.
+- 🌐 Provide a **broader selection** of patterns for the community, modified or renamed version of original Fabric patterns
 
-This project is **not meant to replace the main Fabric patterns** but to complement it, offering users an **alternative source**.
+This project is **not meant to replace the main Fabric patterns** but to complement it.
 
 ---
 
 ## ✨ Features
 
 - 🎯 **Curated Patterns**: Each pattern is carefully reviewed and tested to ensure quality and relevance.
-- 🤝 **Community-Driven**: Contributions from the community are welcome to enhance the diversity of patterns.
 - 🔗 **Easy Integration**: Patterns are designed to integrate seamlessly with Fabric.
-- 🛡️ **Open Source**: Licensed under an open-source license, ensuring everyone can contribute and benefit.
 
 ---
 
