@@ -1,8 +1,8 @@
-# generate_markdown 📝✨
+# markdown 📝✨
 
 ## Overview
 
-The `generate_markdown` pattern is designed to convert content into clean, well-structured Markdown format. The goal of this pattern is to ensure that the original content is preserved and accurately transformed into Markdown, while irrelevant or extraneous elements are removed.
+The `markdown` pattern is designed to convert content into clean, well-structured Markdown format. The goal of this pattern is to ensure that the original content is preserved and accurately transformed into Markdown, while irrelevant or extraneous elements are removed.
 
 ## The Pattern will try:
 

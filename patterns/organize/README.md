@@ -1,6 +1,6 @@
-# organize_text 📄✨
+# organize 📄✨
 
-**organize_text** is a [Fabric](https://github.com/danielmiessler/fabric) pattern that helps transform disorganized and unstructured text into clear, logically organized narratives. This pattern is ideal for cleaning up messy content by organizing it into well-formed paragraphs while removing any irrelevant or redundant material.
+**organize** is a [Fabric](https://github.com/danielmiessler/fabric) pattern that helps transform disorganized and unstructured text into clear, logically organized narratives. This pattern is ideal for cleaning up messy content by organizing it into well-formed paragraphs while removing any irrelevant or redundant material.
 
 ## Table of Contents 📚
 
@@ -10,7 +10,7 @@
 
 ## Purpose 🎯
 
-The `organize_text` is good at:
+The `organize` is good at:
 
 - 📑 **Structuring** unorganized or chaotic text into coherent paragraphs.
 - 🔍 **Enhancing readability** and logical flow of information.
@@ -27,7 +27,7 @@ It can be useful for preparing content for reports, articles, documentation, and
 
 ## Output Sections 📝
 
-`organize_text` will generate the following sections in order:
+`organize` will generate the following sections in order:
 
 1. **TITLE** 🏷️
    - A concise title that accurately reflects the main topic or theme of the text.

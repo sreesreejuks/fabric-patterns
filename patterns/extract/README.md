@@ -1,19 +1,19 @@
-# extract_content 🌟
+# extract 🌟
 
-extract_content is a powerful pattern designed to transform raw, unstructured content such as video transcripts or HTML web pages into a concise, organized, and Markdown-formatted narrative. It is ideal for summarizing, reorganizing, and extracting meaningful insights from a variety of content formats while removing unnecessary details.
+`extract` is a powerful pattern designed to transform raw, unstructured content such as video transcripts or HTML web pages into a concise, organized, and Markdown-formatted narrative. It is ideal for summarizing, reorganizing, and extracting meaningful insights from a variety of content formats while removing unnecessary details.
 
 ---
 
 ## Purpose 🎯
 
-The extract_content pattern ensures that only essential information from input sources is retained and presented in a structured format. By eliminating irrelevant material such as filler, advertisements, and off-topic tangents, content-extract produces clear, actionable summaries that are easy to navigate and understand.
+The `extract` pattern ensures that only essential information from input sources is retained and presented in a structured format. By eliminating irrelevant material such as filler, advertisements, and off-topic tangents, content-extract produces clear, actionable summaries that are easy to navigate and understand.
 
 ---
 
 ## How It Works ⚙️
 
 ### **Input Types**
-extract_content is typically used with the following types of inputs:
+`extract` is typically used with the following types of inputs:
 1. **Video Transcripts** 📝  
    - Conversational text from video content.
 2. **Raw HTML or any text** 🌐  
