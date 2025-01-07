@@ -18,7 +18,7 @@ extract_content is typically used with the following types of inputs:
    - Conversational text from video content.
 2. **Raw HTML or any text** 🌐  
    - HTML source code of a webpage, raw text, transcripts, etc.
-3. **DIY content**
+3. **DIY content** 🔧
    - DIY transcripts or Instructable pages, etc.
 
 ### **Processing Approach**
