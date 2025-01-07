@@ -2,43 +2,21 @@
 
 **🚀 High-Quality Patterns for Fabric**
 
-This project would provide a collection of **high-quality curated patterns** for [Fabric](https://github.com/danielmiessler/fabric), offering additional choices and inspiration for Fabric users.
-
-## 📖 About
-
-This repository serves as an **independent collection of patterns** for Fabric, to:
-
-- 🌟 Share **unique, personal, and creative patterns**.
-- 🌐 Provide a **broader selection** of patterns for the community, modified or renamed version of original Fabric patterns
-
-This project is **not meant to replace the main Fabric patterns** but to complement it.
-
----
-
-## ✨ Features
-
-- 🎯 **Curated Patterns**: Each pattern is carefully reviewed and tested to ensure quality and relevance.
-- 🔗 **Easy Integration**: Patterns are designed to integrate seamlessly with Fabric.
-
----
+This project aims provide a collection of **high-quality curated and well tested patterns** for [Fabric](https://github.com/danielmiessler/fabric). Another reason for creating this repository is:
+- The fact that I don't like the naming concention of patterns in the main Fabric repository, so some of the patterns here are a slightly modified and renamed copy.
+- I don't need the hole set of patterns offered in Fabric, so this is a handy way to download only those I need.
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/fabric-patterns.git
-cd fabric-patterns
-```
+It is possible to manually copy the needed patterns or clone this repository, but the esiest way to get the patterns is to:
+- run `fabric -S`
+- chose option `11`
+- paste this repository URL `https://github.com/wmahfoudh/fabric-patterns`
+- hit `enter` twice
 
 ### 2. Explore the Patterns
-Each pattern resides in its own directory with documentation on usage and implementation.
-
-### 3. Use a Pattern
-- Follow the instructions provided in each pattern's documentation.
-- Modify the pattern as needed to suit your project.
-
----
+Each pattern resides in its own directory generally with documentation on usage and implementation.
 
 ## 📂 Repository Structure
 
@@ -50,8 +28,6 @@ fabric-patterns/
 │   └── ...
 └── README.md
 ```
-
----
 
 ## 📜 License
 
