@@ -1,6 +1,6 @@
 # organize_text 📄✨
 
-**organize_text** is a Fabric pattern that helps transform disorganized and unstructured text into clear, logically organized narratives. This pattern is ideal for cleaning up messy content by organizing it into well-formed paragraphs while removing any irrelevant or redundant material.
+**organize_text** is a [Fabric](https://github.com/danielmiessler/fabric) pattern that helps transform disorganized and unstructured text into clear, logically organized narratives. This pattern is ideal for cleaning up messy content by organizing it into well-formed paragraphs while removing any irrelevant or redundant material.
 
 ## Table of Contents 📚
 
