@@ -37,4 +37,4 @@ This repository is licensed under the GPLv3 License. See the [LICENSE](LICENSE) 
 
 ## 🌟 Acknowledgments
 
-Special thanks to [Daniel Miessler](https://github.com/danielmiessler) and all contributors for creating and maintaining [Fabric](https://github.com/danielmiessler/fabric).
+BIG thanks to [Daniel Miessler](https://github.com/danielmiessler) and all contributors for creating and maintaining [Fabric](https://github.com/danielmiessler/fabric).
