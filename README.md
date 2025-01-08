@@ -2,9 +2,9 @@
 
 **🚀 High-Quality Patterns for Fabric**
 
-This project aims provide a collection of **high-quality curated and well tested patterns** for [Fabric](https://github.com/danielmiessler/fabric). Another reason for creating this repository is:
-- The fact that I don't like the naming concention of patterns in the main Fabric repository, so some of the patterns here are a slightly modified and renamed copy.
-- I don't need the hole set of patterns offered in Fabric, so this is a handy way to download only those I need.
+This project aims provide a collection of **high-quality curated and well tested patterns** for [Fabric](https://github.com/danielmiessler/fabric). Another reason for creating this repository is the fact that I don't like the naming convention of patterns in the main Fabric repository, I prefer short names which is justified by the limited number of patterns I use. I find creating aliases a bit cumbersome.
+
+Few patterns here are simple renamed [Fabric](https://github.com/danielmiessler/fabric) copies. Most are improved versions and many are completely written from scratch.
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ It is possible to manually copy the needed patterns or clone this repository, bu
 - hit `enter` twice
 
 ### 2. Explore the Patterns
-Each pattern resides in its own directory generally with documentation on usage and implementation.
+Each pattern resides in its own directory generally with a `README.md` file.
 
 ## 📂 Repository Structure
 
