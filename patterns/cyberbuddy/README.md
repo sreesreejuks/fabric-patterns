@@ -1,6 +1,6 @@
 # CyberBuddy 🤖
 
-**CyberBuddy** is a Fabric Pattern designed to help professionals in cybersecurity, ISO compliance auditing, risk assessment, and actionable recommendations. Based on user input, it delivers a detailed, structured report highlighting non-conformities, risks, and potential improvements.
+**CyberBuddy** is a Fabric Pattern designed to help professionals in cybersecurity, ISO compliance auditing, risk assessment, and actionable recommendations. Based on user input, it delivers a detailed, structured report highlighting non-conformities, risks, and potential improvements. It can be useful for auditors or QHSE professionals to make an initial assessment of policies or similar documents.
 
 ---
 
