@@ -8,7 +8,7 @@ Few patterns here are simple renamed Fabric copies. Most are improved versions a
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. Getting the Patterns
 It is possible to manually copy the needed patterns or clone this repository, but the esiest way to get the patterns is to:
 - run `fabric -S`
 - chose option `11`
