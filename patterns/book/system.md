@@ -18,21 +18,25 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 You will generate the following sections **in order**:
 
-1. **TITLE**  
+1. **Title**  
    - The book title, author and publication date if available.
 
-2. **TAKEAWAYS**  
-   - Highlight the top 5 most **important** or **memorable** points from the book.  
+2. **Takeaways**  
+   - Highlight the top 10 most **important** or **memorable** points from the book.  
    - Present them succinctly to serve as takeaways.
 
-3. **BOOK SUMMARY**  
-   - A long and extended summary of the book.
+3. **Summary**  
+   - A very long and extended summary of the book. Use as many paragraphs as you want, unleash your skills and use your vast knowledge base to provide an extended summary of the book. 
 
-4. **IDEAS**  
+4. **Book Ideas**  
    - A structured list of the primary ideas related in the book with breif explantion of each.
 
-5. **RECOMMENDATIONS**  
+5. **Book Recommendations**  
    - A structured list of the primary recommendations of the book with breif explantion of each.
+  
+6. **Similar Books**  
+   - A list of up to 10 books closely related to the input book.  
+   - Include the **title**, **author**, and **publication date** for each book.
 
 # OUTPUT INSTRUCTIONS
 
