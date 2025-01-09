@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Quiz ** is a Fabric pattern crafted to create engaging and comprehensive quizzes based on user-provided content. It leverages AI's analytical prowess to not only cover the given material but also enrich the quiz with additional relevant questions, ensuring a well-rounded assessment 📚✨
+The **Quiz** is a Fabric pattern crafted to create engaging and comprehensive quizzes based on user-provided content. It leverages AI's analytical prowess to not only cover the given material but also enrich the quiz with additional relevant questions, ensuring a well-rounded assessment 📚✨
 
 ---
 
