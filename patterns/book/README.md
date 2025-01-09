@@ -1,6 +1,6 @@
 # Book Insight Pattern 📚✨
 
-**Book Insight Pattern** is a Fabric Pattern that provides in-depth, structured analyses of books. It extracts key takeaways, ideas, recommendations, and additional insights based on the given book title (and preferably authors). The pattern also suggests similar books, making it an excellent resource for understanding, applying, and expanding knowledge from written works. It helps you dive deep into books, extract meaningful insights, and discover related works. Perfect for readers, researchers, and knowledge seekers! bla bla bla... and yes this README is AI generated 📚✨
+**Book Insight Pattern** is a Fabric Pattern that provides in-depth, structured analyses of books. It extracts key takeaways, ideas, recommendations, and additional insights based on the given book title (and preferably authors). The pattern also suggests similar books and includes information on critical reception and the author’s background, making it an excellent resource for understanding, applying, and expanding knowledge from written works. It helps you dive deep into books, extract meaningful insights, and discover related works. Perfect for readers, researchers, and knowledge seekers! Bla bla bla... and yes this README is AI-generated 📚✨
 
 ---
 
@@ -10,7 +10,8 @@
 - 💡 **Comprehensive Insights**: Extracts surprising, insightful, and practical ideas and recommendations from the book.
 - 📖 **Detailed Summaries**: Provides both concise takeaways and extended summaries.
 - 📚 **Similar Books**: Suggests up to 10 books related to the input by theme, genre, or ideas, with titles, authors, and publication dates included.
-- ✅ **Actionable Recommendations**: Focuses on practical advice derived from the book’s content.
+- ⭐ **Critical Reception**: Includes when possible insights from professional reviews, ratings from major platforms, and awards or accolades received by the book.
+- 🖋️ **Author Context**: Features a biography of the author, highlighting their writing style, themes, and other notable works.
 
 ---
 
@@ -20,7 +21,7 @@
 - The book’s title, author, and publication date (if available).
 
 ### 2. **Takeaways** ✍️  
-- The top 5 most important or memorable points from the book, presented succinctly for quick reference.
+- The top 10 most important or memorable points from the book, presented succinctly for quick reference.
 
 ### 3. **Book Summary** 📖  
 - A detailed, extended summary of the book’s key content and themes.
@@ -36,3 +37,16 @@
 ### 6. **Similar Books** 📚  
 - A curated list of up to 10 books related to the input by theme, genre, or ideas.  
 - Includes the **title**, **author**, and **publication date** for each book.
+
+### 7. **Book Critics and Ratings** ⭐  
+- A comprehensive overview of the book’s reception, including:
+  - Reviews or quotes from professional critics (if available).
+  - Awards, nominations, or other accolades.
+  - Aggregate ratings from platforms such as Goodreads or Amazon (if applicable).
+
+### 8. **About the Author** 🖋️  
+- A brief biography of the author, covering:
+  - Key details about their life and career.
+  - Major themes or elements of their writing style.
+  - Other notable works.
+  - Awards or recognitions received.
