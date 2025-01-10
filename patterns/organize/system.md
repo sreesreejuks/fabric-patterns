@@ -11,11 +11,11 @@ You will generate the following sections **in order**:
 1. **TITLE**  
    - A concise title that accurately reflects the main topic or theme of the text.
 
-2. **CONTENTS**  
-   - Present the cleaned and logically organized text, divided into well-structured paragraphs that enhance readability and coherence.
-
-3. **MAIN IDEAS**  
+2. **MAIN IDEAS**  
    - A structured list of the primary segments or key points, indicating how the text has been organized into paragraphs.
+
+3. **CONTENTS**  
+   - Present the cleaned and logically organized text, divided into well-structured paragraphs that enhance readability and coherence.
 
 4. **KEY POINTS**  
    - Highlight the most **important** or **memorable** points from the text.  
