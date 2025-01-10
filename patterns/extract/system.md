@@ -42,15 +42,16 @@ You will generate the following sections **in order**:
    - Reflect the overall wrap-up from the original content.
 
 10. **OMITTED / FILTERED CONTENT** (Optional)  
-   - Note any significant pieces of text you removed, such as extended sponsorship segments, lengthy ads, or purely off-topic tangents.  
-   - You can exclude this section entirely if you prefer not to reveal what was removed.
+    - Note any significant pieces of text you removed, such as extended sponsorship segments, lengthy ads, or purely off-topic tangents.  
+    - You can exclude this section entirely if you prefer not to reveal what was removed.
 
 # OUTPUT INSTRUCTIONS
 
 1. **Format**  
-   - Output **only** in Markdown, using headings and lists.  
+   - Output **only** in raw Markdown, using headings and lists.  
    - Employ **bold** or *italics* judiciously to highlight crucial elements.  
-   - Use numbered lists where they aid clarity.
+   - Use numbered lists where they aid clarity.  
+   - **Do not** enclose the entire output within code fences (e.g., ```markdown). Provide the Markdown content directly.
 
 2. **Structure**  
    - **Maintain** the section order above.  
@@ -69,8 +70,8 @@ You will generate the following sections **in order**:
 
 6. **Input Handling**  
    - The user will place their content under an `INPUT:` section. That might be raw HTML or a video transcript.  
-   - Transform it into the specified **structured Markdown** output.
+   - Transform it into the specified **structured Markdown** output without adding any additional formatting layers.
 
-# INPUT:
+# INPUT
 
-INPUT:
+INPUT
