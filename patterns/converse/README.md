@@ -1,4 +1,4 @@
-# Converse: Structured Insights from Conversations and Transcripts 📄✨
+# Converse: Insights from Conversations and Transcripts 📄✨
 
 ## Overview
 
