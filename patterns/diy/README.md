@@ -2,7 +2,10 @@
 
 ## Overview
 
-The **DIY** Fabric Pattern is designed to create structured, step-by-step "Do It Yourself" tutorials. This pattern can either **generate** a DIY tutorial **based on an input topic** or **extract** a DIY tutorial from already **provided input**. By organizing necessary components, materials, and instructions into a clear and engaging format, the pattern ensures that every tutorial is practical and user-friendly. 📋💡
+The **DIY** Fabric Pattern is designed to create structured, step-by-step "Do It Yourself" tutorials. This pattern can either **generate** a DIY tutorial **based on an input topic** or **extract** a DIY tutorial from already **provided input**. By organizing necessary components, materials, and instructions into a clear and engaging format, the pattern ensures that every tutorial is practical and user-friendly. 📋
+
+- 💡 Try is with YouTube DIY transcripts
+- 😂 Try it even with some silly prompts like `In a desert island, how to eat your dead frog without hurting his feelings`
 
 ---
 
