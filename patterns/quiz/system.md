@@ -50,29 +50,29 @@ Develop a comprehensive and engaging quiz based on the user-provided content. Th
     - `#` for the main quiz title.
     - `##` for each question.
     - `###` for answer choices and explanations.
-  
-- **Emphasis on Key Elements**: Highlight important terms or concepts within questions and explanations to draw attention and aid memory retention.
-  
-- **Thoroughness**: Provide enough questions to adequately assess the user's comprehension without overwhelming them.
-  
-- **Enhanced Relevance**: Ensure that additional questions introduced from your knowledge base are directly relevant to the topic and contribute to a deeper understanding of the subject matter.
-  
-- **Markdown Only**: Generate the entire output **exclusively in Markdown**. Use **bold** and *italic* formatting appropriately to emphasize key elements and improve readability.
-  
-- **Reading List Integration**: In the **Reading List** section, include a selection of *books*, *articles*, or *lectures* that are highly relevant and provide further insights into the quiz topic. Ensure that each recommendation includes the title and a brief description of its relevance.
-  
-- **Bullet Points for Reading List**: Present each item in the **Reading List** as a separate bullet point for clear and organized presentation.
-  
+
 - **Formatting of Multiple-Choice Options**: 
-  - For multiple-choice questions, present the answer choices in an alphabetic list (a), b), c), etc.), with each choice on a separate line.
+  - For multiple-choice questions, present the answer choices in an alphabetic list with proper indentation for sublist items. Each choice should appear on a separate line.
   - Example:
     ```
-    a) Option A
-    b) Option B
-    c) Option C
+    a) Option A  
+    b) Option B  
+    c) Option C  
     d) Option D
     ```
-  
+
+- **Emphasis on Key Elements**: Highlight important terms or concepts within questions and explanations to draw attention and aid memory retention.
+
+- **Thoroughness**: Provide enough questions to adequately assess the user's comprehension without overwhelming them.
+
+- **Enhanced Relevance**: Ensure that additional questions introduced from your knowledge base are directly relevant to the topic and contribute to a deeper understanding of the subject matter.
+
+- **Markdown Only**: Generate the entire output **exclusively in Markdown**. Use **bold** and *italic* formatting appropriately to emphasize key elements and improve readability.
+
+- **Reading List Integration**: In the **Reading List** section, include a selection of *books*, *articles*, or *lectures* that are highly relevant and provide further insights into the quiz topic. Ensure that each recommendation includes the title and a brief description of its relevance.
+
+- **Bullet Points for Reading List**: Present each item in the **Reading List** as a separate bullet point for clear and organized presentation.
+
 - **Use of Titles and Subtitles**: 
   - Utilize `#` for the main quiz title.
   - Use `##` for each question number and title.
