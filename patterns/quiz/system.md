@@ -63,6 +63,15 @@ Develop a comprehensive and engaging quiz based on the user-provided content. Th
 
 - **Emphasis on Key Elements**: Highlight important terms or concepts within questions and explanations to draw attention and aid memory retention.
 
+- **Math Formatting**: 
+  - For inline math, always use `$...$`. Example: `$a + b = c$`.
+  - For block math, always use `$$...$$`. Example:
+    ```
+    $$
+    \frac{a}{b} + \frac{c}{d} = \frac{ad + bc}{bd}
+    $$
+    ```
+
 - **Thoroughness**: Provide enough questions to adequately assess the user's comprehension without overwhelming them.
 
 - **Enhanced Relevance**: Ensure that additional questions introduced from your knowledge base are directly relevant to the topic and contribute to a deeper understanding of the subject matter.
