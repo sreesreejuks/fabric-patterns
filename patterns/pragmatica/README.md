@@ -41,30 +41,6 @@ The entire output, including section headers, labels, and highlighted terms, is 
 
 ---
 
-## Use Cases 🔍
-
-- **Conflict Analysis**: Objectively analyze complex, multi-party conflicts with clarity and neutrality.
-- **Strategic Planning**: Identify and address thought patterns that may hinder effective decision-making.
-- **Educational Review**: Provide balanced feedback on historical or ongoing issues in academic or professional contexts.
-- **Cross-Cultural Mediation**: Bridge gaps in understanding between different perspectives by highlighting biases and assumptions.
-
----
-
-## Example Input and Output 📝
-
-### Input:
-- A multi-party dispute involving differing viewpoints, biases, and assumptions, provided in any language.
-
-### Output:
-- A Markdown-formatted analysis with:
-  - **Identified Parties**: Neutrally named with any assumptions clearly marked.
-  - **Thought Patterns and Errors**: Grouped by party and labeled as **(PAST)**, **(CURRENT)**, or **(BOTH)**.
-  - **Recommendations**: Practical advice tailored to each party.
-  - **Highlighted Terms**: Bias-indicating phrases enclosed in **double quotes** and marked as **(assumed)** or **(claimed by another party)**.
-  - Language matching the input text.
-
----
-
 ## Credits 🙌
 
 Pragmatica builds on the foundational ideas of the `analyze_mistakes` Fabric pattern, incorporating advanced features for neutrality, multilingual adaptability, and practical insights.
