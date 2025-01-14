@@ -1,6 +1,6 @@
 # Rewrite Pattern 🖋️🔄
 
-## Overview
+## Overview 🧩
 
 **Rewrite** is a Fabric pattern designed to transform the input text according to specified or default variables, including **speaker** (impersonation), **tone** (formal, funny, etc.), and **style** (human, robot, or unchanged). Its primary purpose is to preserve meaning while adjusting the text’s style, tone, and persona.  
 
