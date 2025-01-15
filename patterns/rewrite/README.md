@@ -6,7 +6,7 @@
 
 - **Variable Extraction**: Extracts and applies `'speaker=...'`, `'tone=...'`, and `'style=...'`.
 - **Default Behavior**: When no variables are provided, Rewrite defaults to a natural, human-like rewrite.
-- **Usage example**: In this example we are adding a line containing the variables on top of the contents of the clipboard. `paste` is an alias to get the contents of the clipboard, can be replaced by a file name or anything.
+- **Usage example**: In this example we are adding a line containing the variables on top of the contents of the clipboard. `paste` is an alias to get the contents of the clipboard, can be replaced by `cat filename` or similar.
 
 `(echo 'style=human speaker=donald trump tone=funny\n' && paste) | fabric -p rewrite --stream` 
 
