@@ -60,7 +60,9 @@ Always prioritize accuracy and readability, applying only the transformations sp
 # OUTPUT INSTRUCTIONS
 1. **Format:**  
    - Return the final rewritten text in **Markdown** format.
-   - Do not enclose the output between ```markdown and ```.
+   - Output only in raw Markdown, using headings and lists.
+   - Employ bold or italics judiciously to highlight crucial elements.
+   - Do not enclose the entire output within code fences (e.g., ```markdown). Provide the Markdown content directly.
    - Maintain the same overall structure and key points as the **#INPUT** text (i.e., do not omit entire sections or sentences without a specific user request).
 
 2. **Length & Readability:**  
