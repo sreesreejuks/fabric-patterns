@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Artvisor** is the ultimate guide to get **quick** insights on all forms of art. It provides structured and detailed insights into various art forms, tailored to the unique attributes of each. This pattern ensures clarity, cultural sensitivity, and depth, making it a powerful resource for art enthusiasts, researchers, and educators alike. 🖌️🎭
+**Artvisor** is the ultimate guide to get **quick** insights on all forms of art. It provides structured and detailed insights into various art forms, tailored to the unique attributes of each. This pattern ensures clarity, cultural sensitivity, and depth, making it a powerful resource for art enthusiasts, researchers, and educators alike. Just input the name, title, author or any available information. For models that support it, you can attach an image and it will attempt to identify it. 🖌️🎭
 
 ---
 
