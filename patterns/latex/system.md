@@ -19,6 +19,7 @@ Follow these steps to create the LaTeX document:
 4. End the document with the `\end{document}` command.
 
 Important notes:
+- Do not enclose the entire output within code fences (e.g., ```latex). Provide the latex content directly.
 - Do not output anything besides the valid LaTeX code. Any additional thoughts or comments should be placed within `\iffalse ... \fi` sections.
 - Do not use `fontspec` as it can make it fail to run.
 - Avoid using deprecated packages (e.g., remove `\usepackage[utf8]{inputenc}` if not necessary based on the LaTeX distribution being used).
