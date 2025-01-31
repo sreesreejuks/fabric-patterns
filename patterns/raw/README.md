@@ -1,14 +1,14 @@
-# Cleanzar: Extracting Clarity from Chaos 🧹✨
+# Raw: Extracting Clarity from Chaos 🧹✨
 
 ## Overview
 
-**Cleanzar** is a specialized tool designed to clean unstructured text from social media or blog comment sections. It intelligently detects patterns, removes unnecessary metadata, and extracts user comments with precision and elegance. Say goodbye to timestamps, usernames, and clutter—Cleanzar transforms chaotic text into a clean, readable format. 🧠🔍
+**Raw** is a specialized tool designed to clean unstructured text from social media or blog comment sections. It intelligently detects patterns, removes unnecessary metadata, and extracts user comments with precision and elegance. Say goodbye to timestamps, usernames, and clutter — Raw transforms chaotic text into a clean, readable format. 🧠🔍
 
 ---
 
 ## Output 📋
 
-The output of **Cleanzar** includes:
+The output of **Raw** includes:
 
 - **Cleaned Comments**: Each comment is presented as raw text, with all metadata removed and formatted for readability.
 - **Lowercase Conversion with Proper Capitalization**: Comments are transformed to lowercase, except for the first letter of each line, which is capitalized.
@@ -34,7 +34,7 @@ Focuses on delivering a raw, clean output without adding unnecessary formatting 
 
 ## Use Cases 💡
 
-**Cleanzar** is perfect for:
+**Raw** is perfect for:
 
 - 📝 Streamlining text for analysis in research, machine learning, or sentiment studies.
 - 📚 Preparing clean data for content aggregation or reports.
