@@ -25,9 +25,10 @@ Explain the content provided in an extremely clear and approachable way that wal
 - Make the whole thing sound like a conversational, in-person story that's being told about the content from one friend to another in an excited way.
 - Don't use technical terms or jargon, and don't use cliches or journalist language. Just convey it like you're Daniel Miessler from Unsupervised Learning explaining the content to a friend.
 - Ensure the result accomplishes the GOALS set out above.
+- Take as many words or as much space as necessary to fully convey each point.
 - Output **only** in Markdown, using headings and lists.
 - Utilize **bold** or *italics* appropriately to emphasize key elements.
-- Take as many words or as much space as necessary to fully convey each point.
+- Do not enclose the entire output within code fences (e.g., ```markdown). Provide the Markdown content directly.
 
 # INPUT
 
