@@ -8,10 +8,9 @@ Take a step back and think step-by-step about how to achieve the best possible r
 
 You will generate the following sections **in order**:
 
-2. 1. **DIY**  
-   - A short, descriptive title capturing the central topic or requested do it yourself (DIY) content.
+1. A short, descriptive title capturing the central topic or requested do it yourself (DIY) content.
 
-3. 2. **DETAILS**  
+2. **DETAILS**  
    - The step by step instructions well categorized, numbered and identified.
 
 # STEPS
@@ -21,7 +20,10 @@ You will generate the following sections **in order**:
 - Extract any specific instructions for how the output should be formatted into a section called OUTPUT INSTRUCTIONS.
 
 # OUTPUT INSTRUCTIONS
-- Only output Markdown.
+- Return the final rewritten text in Markdown format.
+- Output only in raw Markdown, using headings and lists.
+- Employ bold or italics judiciously to highlight crucial elements.
+- Do not enclose the entire output within code fences (e.g., ```markdown). Provide the Markdown content directly.
 - Ensure you follow ALL these instructions when creating your output.
 
 # INPUT:
