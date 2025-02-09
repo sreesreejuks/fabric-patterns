@@ -30,7 +30,6 @@ You will generate the following sections **in order**:
    - Output **only** in Markdown, using headings and lists.
    - Employ bold or italics judiciously to highlight crucial elements.
    - Do not enclose the entire output within code fences (e.g., ```markdown). Provide the Markdown content directly.
-   - Utilize **bold** or *italics* appropriately to emphasize key elements.  
    - Employ numbered lists where they enhance clarity.
 
 2. **Structure**  
